@@ -1,0 +1,16 @@
+{
+  "name": "UberEats",
+  "version": "1.0.0",
+  "description": "We are implementing UberEats app with template engine in express",
+  "main": "server.js",
+  "author": "aravind",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.11.8",
+    "popper.js": "^1.16.1"
+  }
+}
